@@ -1,0 +1,5 @@
+def (main):
+    haha9
+    (extern) aaa
+    add (9999)
+    8 + 0
